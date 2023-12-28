@@ -15,11 +15,13 @@ It's an **online gift recommendation service**. Users can easily find **the perf
 <tr><th>Fonts</th><th>Colors</th></tr>
 <tr><td>
 
-| Title | Roboto |
-| ----- | ------ |
-| Text  | Halant |
+| Title | Roboto    |
 | ----- | --------- |
-| Primary | #0aec6c |
+| Text  | Halant    |
+
+</td><td>
+| Primary    | #0aec6c   |
+| --------- | ------- |
 | Secondary | #dc342a |
 | Background | #f5f5dc |
 | Text | #100803 |
