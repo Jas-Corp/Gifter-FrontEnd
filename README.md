@@ -18,9 +18,7 @@ It's an **online gift recommendation service**. Users can easily find **the perf
 | Title | Roboto |
 | ----- | ------ |
 | Text  | Halant |
-
-</td><td>
-
+| ----- | --------- |
 | Primary | #0aec6c |
 | Secondary | #dc342a |
 | Background | #f5f5dc |
