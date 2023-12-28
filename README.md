@@ -1,30 +1,43 @@
-# React + TypeScript + Vite
+<p align="center">
+    <img height="300px" src="lien_vers_le_logo_de_Gifter" alt="Logo Gifter">
+</p>
+<hr>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Gifter** is a fictional project developed using **React**, **Typescript**, and **SCSS** out of personal interest.
 
-Currently, two official plugins are available:
+It's an **online gift recommendation service**. Users can easily find **the perfect gift** with our intelligent suggestion system, **streamlining their shopping experience**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<hr>
 
-## Expanding the ESLint configuration
+<h1 align="center">Graphic Identity 🎨</h1>
+<table align="center">
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<tr><th>Fonts</th><th>Colors</th></tr>
+<tr><td>
 
-- Configure the top-level `parserOptions` property like this:
+| Title | Roboto |
+| ----- | ------ |
+| Text  | Halant |
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+</td><td>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+| Primary | #0aec6c |
+| Secondary | #dc342a |
+| Background | #f5f5dc |
+| Text | #100803 |
+
+</td></tr> </table>
+
+<h1 align="center">Results 🖥️</h1>
+
+<div align="center" float="left">
+  <img src="lien_vers_maquette_1" alt="maquette" height="250px">
+    <img src="lien_vers_maquette_2" alt="maquette" height="250px">
+</div>
+
+<div align="center">  
+    <h1>Technologies</h1>
+    <img style="margin: 10px" src="lien_vers_logo_React" alt="React" height="50" />  
+    <img style="margin: 10px" src="lien_vers_logo_SCSS" alt="SCSS" height="50" />  
+    <img style="margin: 10px" src="lien_vers_logo_Typescript" alt="Typescript" height="50" />  
+</div>
