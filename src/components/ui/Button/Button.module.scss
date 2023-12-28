@@ -1,0 +1,19 @@
+.button {
+  background-color: $button-color;
+  color: $white;
+  padding: 10px 50px;
+  height: 4cap;
+  margin: 10px;
+  border-radius: 3px;
+  max-width: 200px;
+
+  &:hover {
+    cursor: pointer;
+    background-color: $button-hover-color;
+  }
+
+  &:disabled {
+    background-color: $button-disabled-color;
+    cursor: not-allowed;
+  }
+}

@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 60px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: $text-color;
+  & > span {
+    color: $hightlight-color;
+  }
+}
+
+.logout {
+  font-size: 13px;
+  color: $text-color;
+
+  &:hover {
+    cursor: pointer;
+    color: $button-hover-color;
+  }
+
+}

@@ -1,0 +1,16 @@
+.title {
+  margin: 20px;
+}
+
+.description {
+  width: 400px;
+  margin: 20px;
+}
+.link {
+  text-decoration: none;
+  color: $text-color;
+  font-size: 15px;
+  &:hover {
+    color: #000;
+  }
+}
