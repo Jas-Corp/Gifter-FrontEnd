@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="300px" src="lien_vers_le_logo_de_Gifter" alt="Logo Gifter">
+    <img height="300px" src="https://zupimages.net/up/23/52/nx8k.png" alt="Logo Gifter">
 </p>
 <hr>
 
@@ -32,13 +32,12 @@ It's an **online gift recommendation service**. Users can easily find **the perf
 <h1 align="center">Results 🖥️</h1>
 
 <div align="center" float="left">
-  <img src="lien_vers_maquette_1" alt="maquette" height="250px">
-  <img src="lien_vers_maquette_2" alt="maquette" height="250px">
+  <img src="https://zupimages.net/up/23/52/ucpj.png" alt="maquette" height="250px">
 </div>
 
 <div align="center">  
     <h1>Technologies</h1>
-    <img style="margin: 10px" src="lien_vers_logo_React" alt="React" height="50" />  
-    <img style="margin: 10px" src="lien_vers_logo_SCSS" alt="SCSS" height="50" />  
-    <img style="margin: 10px" src="lien_vers_logo_Typescript" alt="Typescript" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SCSS" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="50" />  
 </div>
